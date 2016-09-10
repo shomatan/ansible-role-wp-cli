@@ -1,0 +1,5 @@
+---
+
+# wp-cli
+wordpress_wp_cli_phar_url: https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+wordpress_wp_cli_bin_path: /usr/bin/wp
