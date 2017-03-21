@@ -2,6 +2,7 @@
 Installs wordpress command line interface.
 
 ## Requirements
+
 None.
 
 ### Role variables
@@ -15,10 +16,6 @@ None.
 
 ### Example Playbook
 
-```yaml
-- hosts: all
-  roles:
-    - { role: wp-cli }
-  vars:
-
-```
+    - hosts: servers
+      roles:
+        - { role: shomatan.wp-cli }
